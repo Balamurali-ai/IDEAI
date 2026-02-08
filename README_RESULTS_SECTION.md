@@ -1,5 +1,3 @@
-# 📈 Results Summary (Ready to Paste into README.md)
-
 ## 📈 Results Summary
 
 ### Model Performance
