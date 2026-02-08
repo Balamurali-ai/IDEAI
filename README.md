@@ -1,7 +1,5 @@
 # 🔬 AI-Powered Semiconductor Wafer Defect Detection System
 
-**IESA DeepTech Hackathon 2026 Submission**
-
 ---
 
 ## 📋 Problem Statement
