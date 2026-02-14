@@ -1,11 +1,5 @@
 # src/generate_results.py
-"""
-Generate comprehensive evaluation results for hackathon submission
-- ONNX model inference on test set
-- Accuracy, Precision, Recall, F1-Score
-- Confusion Matrix visualization
-- Model size and inference time
-"""
+
 
 import onnxruntime as ort
 import numpy as np
