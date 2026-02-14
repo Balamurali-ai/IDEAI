@@ -1,7 +1,5 @@
 # src/export_pytorch_to_onnx.py (REFERENCE - if using PyTorch)
-"""
-Export trained PyTorch model to ONNX format
-"""
+
 
 import torch
 import onnx
